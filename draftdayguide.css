@@ -1,7 +1,29 @@
 body {
 width:960px
-margin:0 auto;
+margin:20px;
 font-family: "arial";
 color:blue;
-background-color: black;
+background-color: white;
+background-size: cover;
+background-position: center center;
 }
+
+h4 {color:black;
+margin:20px;}
+p{ color:black;}
+li{color:black;}
+tr{color:black;}
+
+#throwback{
+	padding:20px;
+	border:10px black;
+	margin:20px;
+	float:right;
+	background-position: center right;
+}
+
+#headline{clear: both;
+  background-color: black;
+  padding: 5px;
+  border: 10px solid black;
+  margin-top: 10px;}
