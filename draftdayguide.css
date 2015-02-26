@@ -6,6 +6,7 @@ color:blue;
 background-color: white;
 background-size: cover;
 background-position: center center;
+
 }
 
 h4 {color:black;
@@ -20,10 +21,12 @@ tr{color:black;}
 	margin:20px;
 	float:right;
 	background-position: center right;
+	
 }
 
 #headline{clear: both;
   background-color: black;
   padding: 5px;
   border: 10px solid black;
-  margin-top: 10px;}
+  margin-top: 10px;
+background: url(frank.jpeg)}
