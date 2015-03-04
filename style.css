@@ -16,11 +16,11 @@ li{color:black;}
 tr{color:black;}
 
 #throwback{
-	padding:20px;
-	border:10px black;
-	margin:20px;
+	padding:5px;
+	border:5px black;
+	margin:5px;
 	float:right;
-	background-position: center right;
+	background-position: center;
 	
 }
 
@@ -28,5 +28,4 @@ tr{color:black;}
   background-color: black;
   padding: 5px;
   border: 10px solid black;
-  margin-top: 10px;
-background: url(frank.jpeg)}
+  margin-top: 10px;}
