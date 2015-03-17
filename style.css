@@ -1,12 +1,12 @@
 body {
 width:960px
-margin:20px;
+margin:0 auto;
 font-family: "arial";
 color:blue;
-background-color: white;
+background-color: #ccCCFF;
 background-size: cover;
-background-position: center center;
-
+background-position: center center; 
+ vertical-align: text-top;
 }
 
 h4 {color:black;
@@ -17,20 +17,29 @@ tr{color:black;}
 
 .stein{color:red;}
 
+.green{color:green;}
+
 #blue{color:blue;
 font-size: 18px}
+
+#kg	{padding:5px;
+	border:5px black;
+	margin:5px;
+	float:right;
+	background-position: center;}
 
 #throwback{
 	padding:5px;
 	border:5px black;
 	margin:5px;
 	float:right;
-	background-position: center;
-	
-}
+	background-position: center center}
+
+
 
 #headline{clear: both;
   background-color: black;
   padding: 5px;
   border: 10px solid black;
-  margin-top: 10px;}
+  margin-top: 10px;
+background-position: center center;}
